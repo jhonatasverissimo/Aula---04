@@ -1,4 +1,4 @@
-Lista de exercícios da aula 04 de micro informática.
+Lista de exercícios da aula 04 de microinformática.
 
 1 – Desenvolva um programa para calcular a área, diâmetro e perímetro do círculo.
 A = π . r²
